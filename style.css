@@ -114,8 +114,8 @@ body {
 }
 
 .hero-image {
-  width: 200px;
-  height: 200px;
+  width: 240px;
+  height: 240px;
   border-radius: 50%;
   border: 3px solid #00aaff;
   box-shadow: 0 0 20px #00aaff;
@@ -414,5 +414,6 @@ footer {
   padding: 15px;
   font-size: 0.9em;
 }
+
 
 
